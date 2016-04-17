@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="com.example.vivek.assignment22.MainActivity">
+
+    <TextView
+        style="@style/TextViewStyle"
+        android:background="@color/Red"
+        android:text="RED"
+        />
+
+    <TextView
+        style="@style/TextViewStyle"
+        android:background="@color/Orange"
+        android:text="ORANGE"
+        />
+
+    <TextView
+        style="@style/TextViewStyle"
+        android:background="@color/Yellow"
+        android:text="YELLOW"
+        />
+
+    <TextView
+        style="@style/TextViewStyle"
+        android:background="@color/Green"
+        android:text="GREEN"
+        />
+
+    <TextView
+        style="@style/TextViewStyle"
+        android:background="@color/Blue"
+        android:text="BLUE"
+        />
+
+    <TextView
+        style="@style/TextViewStyle"
+        android:background="@color/Indigo"
+        android:text="INDIGO"
+        />
+
+    <TextView
+        style="@style/TextViewStyle"
+        android:background="@color/Violet"
+        android:text="VIOLET"
+        />
+
+</LinearLayout>
+</ScrollView>
